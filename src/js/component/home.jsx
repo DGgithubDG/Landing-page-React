@@ -7,14 +7,19 @@ import React from "react";
 
 import Jumbo from "./Jumbotron.jsx";
 import Container from "./Container.jsx";
+import NavBar from "./NavBar.jsx";
+import Foot from "./Foot.jsx";
+
+
 
 
 const Home = () => {
     return (
         <div className="Home">
-
+<NavBar/>
             <Jumbo/>
 <Container/>
+<Foot/>
 
         </div>
     

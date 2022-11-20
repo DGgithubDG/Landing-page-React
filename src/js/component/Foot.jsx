@@ -5,7 +5,7 @@ const Foot = () => {
         <div className="nav bg-dark">
             
             <div className="card-body bg-dark">
-                <h5 className="card-title text-light text-center bg-dark">Copyrigth © Your Website 2022</h5>
+                <h5 className="card-title text-light text-center bg-dark">Copyrigtht © Your Website 2022</h5>
             </div>
         </div>
     )

@@ -5,6 +5,7 @@ import { PropTypes } from "prop-types";
 
 const Card1 = (props) => {
     return (
+      //<div className="Contained">
       <Col lg="3">
       <Card>
 
@@ -15,7 +16,7 @@ const Card1 = (props) => {
       <Button variant="primary justify-content: text-center">Go somewhere</Button>      </div>
 </Card>
 </Col>
-
+//</div>
 
     
 	);

@@ -10,6 +10,7 @@ import Jumbo from "./Jumbotron.jsx";
 import Card1 from "./Card.jsx";
 import NavBar from "./NavBar.jsx";
 import Foot from "./Foot.jsx";
+import "./container.css"
 
 
 
